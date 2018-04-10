@@ -13,5 +13,5 @@ In order to park our vehicles in malls, we would have to get a ticket first from
 
 
 <h2>How to use.</h2>
-1) Install opencv and tesseract
+1) Install opencv and tesseract <br>
 2) Run the python file "getRectangle.py"
